@@ -1,4 +1,4 @@
-package com.project.sasken.License.Guard;
+package com.sasken.LicenseGuard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

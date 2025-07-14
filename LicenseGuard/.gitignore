@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore bin directory with compiled classes and build artifacts
+bin/
+
+# Ignore common OS files
+.DS_Store
+Thumbs.db
